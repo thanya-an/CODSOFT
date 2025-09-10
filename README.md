@@ -22,7 +22,6 @@ It allows users to **add, view, search, update, and delete contacts** with a cle
 - **GUI Library:** Tkinter  
 - **Widgets Used:** `Label`, `Entry`, `Listbox`, `Button`, `Frame`, `Messagebox`, `Simpledialog`
 
----
 
-## 📷 Screenshots  
-*(You can add screenshots of your app here – e.g., Add Contact screen, Search result, etc.)*  
+
+
