@@ -19,6 +19,10 @@ It allows users to **add, view, search, update, and delete contacts** with a cle
 - **GUI Library:** Tkinter  
 - **Widgets Used:** `Label`, `Entry`, `Listbox`, `Button`, `Frame`, `Messagebox`, `Simpledialog`
 
+## 📷 Screenshot
+[Contact Management Screenshot](Screenshot2.png)
+
+
 
 https://github.com/thanya-an/CODSOFT.git
 
